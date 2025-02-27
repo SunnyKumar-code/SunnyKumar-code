@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,mongodb,redux,typescript,nodejs,express,firebase,java,nextjs,bash,gitlab,postman,vite" />
 </div>
 
-![snake gif](https://github.com/SunnyKumar-code/SunnyKumar-code/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Mayankkatheriya/Mayankkatheriya/6d2f37e04c1937361dc3b2840ba5301387031fdf/github-contribution-grid-snake-dark.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyKumar-code&show_icons=true&locale=en&layout=compact" alt="SunnyKumar-code" /></p>
 
